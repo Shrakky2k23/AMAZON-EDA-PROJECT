@@ -1,0 +1,24 @@
+# Amazon EDA Project
+
+## Objective
+Performed Exploratory Data Analysis (EDA) on Amazon product dataset using Python.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Analysis Performed
+- Data Cleaning
+- Missing Value Handling
+- Product Rating Analysis
+- Price Analysis
+- Category Analysis
+- Data Visualization
+
+## Key Insights
+- Electronics category had most products
+- Ratings mainly ranged between 4.0–4.5
+- Expensive products were not always highest rated
