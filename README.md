@@ -32,9 +32,9 @@ Project Structure
 
 Future Improvements:
 
-To build an interactive dashboard using Power BI or Tableau
-Add machine learning-based product recommendation system
-Perform sentiment analysis on customer reviews
-Author
+1)To build an interactive dashboard using Power BI or Tableau
+2)To add machine learning-based product recommendation system
+3)To perform sentiment analysis on customer reviews
+
 
 Shirsha Rakshit
