@@ -30,8 +30,9 @@ Project Structure
 
 
 
-Future Improvements
-Build an interactive dashboard using Power BI or Tableau
+Future Improvements:
+
+To build an interactive dashboard using Power BI or Tableau
 Add machine learning-based product recommendation system
 Perform sentiment analysis on customer reviews
 Author
