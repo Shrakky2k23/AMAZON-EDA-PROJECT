@@ -25,11 +25,10 @@ Expensive products were not always highest rated.
 Certain categories dominated Amazon listings.
 Project Structure
 
-AMAZON-EDA-PROJECT/
-│
-├── amazon.csv
-├── amazon_eda.ipynb
-└── README.md
+
+<img width="237" height="220" alt="image" src="https://github.com/user-attachments/assets/fc34fd5c-285c-4de3-b76c-63810cc17bd0" />
+
+
 
 Future Improvements
 Build an interactive dashboard using Power BI or Tableau
